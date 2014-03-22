@@ -1,0 +1,415 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#box {
+    float: left;
+    height: 319px;
+    margin-left: 6.132367%;
+    margin-top: 79px;
+    clear: none;
+    width: 27.999049%;
+}
+
+#box6 {
+    float: left;
+    height: 223.203125px;
+    margin-left: 0.17105263%;
+    margin-top: 14.0625px;
+    clear: none;
+    width: 23.495066%;
+    margin-right: 0%;
+}
+
+#box7 {
+    float: left;
+    height: 223.203125px;
+    margin-left: 0%;
+    margin-top: 14.0625px;
+    clear: none;
+    width: 23.495066%;
+    margin-right: 0%;
+}
+
+#box5 {
+    float: left;
+    height: 223.203125px;
+    margin-left: 2.858553%;
+    margin-top: 14.0625px;
+    clear: both;
+    width: 23.495066%;
+    margin-right: 0%;
+}
+
+#box8 {
+    float: left;
+    height: 223.203125px;
+    margin-left: 0.18914474%;
+    margin-top: 14.265625px;
+    clear: none;
+    width: 23.495066%;
+    margin-right: 0%;
+}
+
+#box1 {
+    float: left;
+    height: 326px;
+    margin-left: 0%;
+    margin-top: 39px;
+    clear: none;
+    width: 276.15789072px;
+    margin-right: 0%;
+    background-color: rgb(246, 238, 238);
+}
+
+#box2 {
+    float: left;
+    height: 296.9375px;
+    margin-left: 2.858553%;
+    margin-top: 14px;
+    clear: both;
+    width: 301.03125px;
+    margin-right: 0%;
+    border-top-style: inset;
+    border-right-style: inset;
+    border-bottom-style: inset;
+    border-left-style: inset;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-top-color: rgb(228, 205, 205);
+    border-right-color: rgb(228, 205, 205);
+    border-bottom-color: rgb(228, 205, 205);
+    border-left-color: rgb(228, 205, 205);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgb(246, 238, 238);
+}
+
+#box3 {
+    float: left;
+    height: 296.9375px;
+    margin-left: 0.00328947%;
+    margin-top: 14px;
+    clear: none;
+    width: 296.9375005px;
+    margin-right: 0%;
+    border-top-style: inset;
+    border-right-style: inset;
+    border-bottom-style: inset;
+    border-left-style: inset;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-top-color: rgb(228, 205, 205);
+    border-right-color: rgb(228, 205, 205);
+    border-bottom-color: rgb(228, 205, 205);
+    border-left-color: rgb(228, 205, 205);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgb(246, 238, 238);
+    background-image:url("img/eggplantlasagna01.jpg");
+    background-position: 38.1% 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: 150%;
+}
+
+#box4 {
+    float: left;
+    height: 296.9375px;
+    margin-left: 0.00328947%;
+    margin-top: 14px;
+    clear: none;
+    width: 298.359375px;
+    margin-right: 0%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-style: inset;
+    border-right-style: inset;
+    border-bottom-style: inset;
+    border-left-style: inset;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-top-color: rgb(228, 205, 205);
+    border-right-color: rgb(228, 205, 205);
+    border-bottom-color: rgb(228, 205, 205);
+    border-left-color: rgb(228, 205, 205);
+    background-color: rgb(246, 238, 238);
+    background-image:url("img/Food-2.jpg");
+    background-position: 84.9% -12.07px;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: 270.2%;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 96.07001%;
+    height: auto;
+    margin-left: 2.08311%;
+    margin-top: 7.75px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    box-shadow: rgb(0, 0, 0) 0px 3px 3px 0px inset;
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: 97.213572%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 1.744873%;
+    margin-top: 11.3125px;
+    clear: none;
+    min-height: 77px;
+    font-family: 'trebuchet ms';
+}
+
+#text {
+    margin-left: 5.629739%;
+    float: left;
+    font-size: 1em;
+    width: 88.727273%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-top: 9px;
+    clear: none;
+    min-height: 295px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+@media only screen and (max-width: 948px) {
+    #box {
+        height: 326px;
+        width: 623.975625px;
+        margin-top: 39px;
+        margin-left: 2.858553%;
+        clear: none;
+        background-image:url("img/fruittart23.jpg");
+        background-position: -633px 0px;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-size: 629px;
+    }
+
+    #box6 {
+        float: left;
+        height: 223.203125px;
+        margin-left: 0.17105263%;
+        margin-top: 14.0625px;
+        clear: none;
+        width: 23.495066%;
+        margin-right: 0%;
+    }
+
+    #box7 {
+        float: left;
+        height: 223.203125px;
+        margin-left: 0%;
+        margin-top: 14.0625px;
+        clear: none;
+        width: 23.495066%;
+        margin-right: 0%;
+    }
+
+    #box5 {
+        float: left;
+        height: 223.203125px;
+        margin-left: 2.858553%;
+        margin-top: 14.0625px;
+        clear: both;
+        width: 23.495066%;
+        margin-right: 0%;
+    }
+
+    #box8 {
+        float: left;
+        height: 223.203125px;
+        margin-left: 0.18914474%;
+        margin-top: 14.265625px;
+        clear: none;
+        width: 23.495066%;
+        margin-right: 0%;
+    }
+
+    #box1 {
+        height: 326px;
+        width: 276.15789072px;
+        margin-top: 39px;
+        margin-left: 0%;
+        clear: none;
+        margin-right: 0%;
+        background-color: rgb(246, 238, 238);
+    }
+
+    #box2 {
+        float: left;
+        height: 296.9375px;
+        margin-left: 2.858553%;
+        margin-top: 14px;
+        clear: both;
+        width: 301.03125px;
+        margin-right: 0%;
+        border-top-style: inset;
+        border-right-style: inset;
+        border-bottom-style: inset;
+        border-left-style: inset;
+        border-top-width: 5px;
+        border-right-width: 5px;
+        border-bottom-width: 5px;
+        border-left-width: 5px;
+        border-top-color: rgb(228, 205, 205);
+        border-right-color: rgb(228, 205, 205);
+        border-bottom-color: rgb(228, 205, 205);
+        border-left-color: rgb(228, 205, 205);
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        background-color: rgb(246, 238, 238);
+    }
+
+    #box3 {
+        float: left;
+        height: 296.9375px;
+        margin-left: 0.00328947%;
+        margin-top: 14px;
+        clear: none;
+        width: 296.9375005px;
+        margin-right: 0%;
+        border-top-style: inset;
+        border-right-style: inset;
+        border-bottom-style: inset;
+        border-left-style: inset;
+        border-top-width: 5px;
+        border-right-width: 5px;
+        border-bottom-width: 5px;
+        border-left-width: 5px;
+        border-top-color: rgb(228, 205, 205);
+        border-right-color: rgb(228, 205, 205);
+        border-bottom-color: rgb(228, 205, 205);
+        border-left-color: rgb(228, 205, 205);
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        background-color: rgb(246, 238, 238);
+        background-image:url("img/eggplantlasagna01.jpg");
+        background-position: 38.1% 0%;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-size: 150%;
+    }
+
+    #box4 {
+        float: left;
+        height: 296.9375px;
+        margin-left: 0.00328947%;
+        margin-top: 14px;
+        clear: none;
+        width: 298.359375px;
+        margin-right: 0%;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-top-style: inset;
+        border-right-style: inset;
+        border-bottom-style: inset;
+        border-left-style: inset;
+        border-top-width: 5px;
+        border-right-width: 5px;
+        border-bottom-width: 5px;
+        border-left-width: 5px;
+        border-top-color: rgb(228, 205, 205);
+        border-right-color: rgb(228, 205, 205);
+        border-bottom-color: rgb(228, 205, 205);
+        border-left-color: rgb(228, 205, 205);
+        background-color: rgb(246, 238, 238);
+        background-image:url("img/Food-2.jpg");
+        background-position: 84.9% -12.07px;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-size: 270.2%;
+    }
+
+    #image {
+        float: left;
+        width: auto;
+        max-width: 96.07001%;
+        height: auto;
+        margin-left: 2.08311%;
+        margin-top: 7.75px;
+        clear: both;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+        box-shadow: rgb(0, 0, 0) 0px 3px 3px 0px inset;
+    }
+
+    #text1 {
+        float: left;
+        font-size: 1em;
+        width: 97.213572%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 1.744873%;
+        margin-top: 11.3125px;
+        clear: none;
+        min-height: 77px;
+        font-family: 'trebuchet ms';
+    }
+
+    #text {
+        margin-left: 5.629739%;
+        float: left;
+        font-size: 1em;
+        width: 88.727273%;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-top: 9px;
+        clear: none;
+        min-height: 295px;
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+
+    #textspan {
+        float: none;
+        font-size: 1em;
+        line-height: 1em;
+        font-family: 'trebuchet ms';
+    }
+}
+
