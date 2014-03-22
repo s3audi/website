@@ -1,0 +1,284 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(136, 75, 75);
+    background-image:url("img/IMG_0016.JPG");
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 284.3% -100%;
+    background-repeat: repeat repeat;
+}
+
+#box {
+    float: left;
+    height: 430px;
+    margin-left: -39.547378%;
+    margin-top: -191px;
+    clear: none;
+    width: 51.199869%;
+    background-color: rgb(219, 205, 205);
+    border-left-color: rgb(153, 159, 154);
+    border-left-width: 1px;
+    border-left-style: dashed;
+    box-shadow: rgb(0, 0, 0) 10px 10px 43px 0px;
+    opacity: 1;
+}
+
+#box1 {
+    float: left;
+    height: 430px;
+    margin-left: 42.384739%;
+    margin-top: 24px;
+    clear: both;
+    width: 23.20113%;
+    min-height: 50px;
+    margin-right: 0%;
+    background-color: rgb(167, 134, 134);
+    opacity: 0.69;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 48.618709%;
+    height: auto;
+    margin-left: 3.710626%;
+    margin-top: 14px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text2 {
+    float: left;
+    font-size: 1em;
+    width: 41.750105%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 2.497536%;
+    margin-top: 14px;
+    clear: none;
+    min-height: 0px;
+}
+
+#textspan {
+    float: none;
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: 500;
+    font-family: tahoma;
+}
+
+#text {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 17.06471%;
+    margin-top: 203px;
+    clear: none;
+    min-height: 0px;
+    font-family: arial;
+}
+
+#input6 {
+    float: left;
+    height: 22px;
+    font-size: 1em;
+    margin-left: -48.618023%;
+    margin-top: 245px;
+    clear: none;
+    width: 48.615025%;
+}
+
+#input5 {
+    float: left;
+    height: auto;
+    font-size: 1em;
+    margin-left: -6.282873%;
+    margin-top: 109px;
+    clear: none;
+    width: auto;
+}
+
+#input4 {
+    float: left;
+    height: auto;
+    font-size: 1em;
+    margin-left: -3.451677%;
+    margin-top: 109px;
+    clear: none;
+    width: auto;
+}
+
+#input3 {
+    float: left;
+    height: auto;
+    font-size: 1em;
+    margin-left: -6.285955%;
+    margin-top: 109px;
+    clear: none;
+    width: auto;
+}
+
+#input2 {
+    float: left;
+    height: auto;
+    font-size: 1em;
+    margin-left: -6.284928%;
+    margin-top: 109px;
+    clear: none;
+    width: auto;
+}
+
+#input1 {
+    float: left;
+    height: auto;
+    font-size: 1em;
+    margin-left: -6.285955%;
+    margin-top: 109px;
+    clear: none;
+    width: auto;
+}
+
+#input {
+    float: left;
+    height: auto;
+    font-size: 1em;
+    margin-left: 41.464292%;
+    margin-top: 87px;
+    clear: both;
+    width: auto;
+}
+
+#box2 {
+    float: left;
+    height: 245px;
+    margin-left: 3.612067%;
+    margin-top: 16px;
+    clear: none;
+    width: 91.373379%;
+    background-image:url("img/Salon.png");
+    background-size: 120.08000183105469%;
+    margin-right: 0%;
+    background-attachment: scroll;
+    background-color: rgb(153, 159, 154);
+    background-position: 0% -84px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#box3 {
+    float: left;
+    height: 138px;
+    margin-left: 3.956073%;
+    margin-top: 17px;
+    clear: both;
+    width: 91.373379%;
+    border: 1px dashed rgb(153, 159, 154);
+    box-shadow: rgb(0, 0, 0) 3px 4px 23px 0px;
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 25.59788%;
+    margin-top: 42px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text3 {
+    float: left;
+    font-size: 1em;
+    width: 93.715644%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 3.362551%;
+    margin-top: 6px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 0%;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: 500;
+    font-family: tahoma;
+}
+
+@media only screen and (max-width: 926px) {
+    #box1 {
+        margin-top: 19px;
+        margin-left: 12.542834%;
+        clear: both;
+        width: 51.199344%;
+    }
+
+    #text1 {
+        margin-top: 42px;
+        margin-left: 25.59781%;
+        clear: both;
+    }
+
+    #input {
+        margin-top: 87px;
+        margin-left: 41.463051%;
+        clear: both;
+    }
+
+    #input1 {
+        margin-top: 109px;
+        margin-left: -6.285384%;
+        clear: none;
+    }
+
+    #input2 {
+        margin-top: 109px;
+        margin-left: -6.283522%;
+        clear: none;
+    }
+
+    #input3 {
+        margin-top: 109px;
+        margin-left: -6.285384%;
+        clear: none;
+    }
+
+    #input4 {
+        margin-top: 109px;
+        margin-left: -3.450909%;
+        clear: none;
+    }
+
+    #input5 {
+        margin-top: 109px;
+        margin-left: -6.28166%;
+        clear: none;
+    }
+
+    #box {
+        margin-left: -39.546707%;
+        clear: none;
+        width: 51.199344%;
+        height: 430px;
+        margin-top: -191px;
+    }
+}
+
